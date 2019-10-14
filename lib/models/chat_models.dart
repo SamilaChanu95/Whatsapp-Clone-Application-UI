@@ -10,6 +10,8 @@ class ChatModel
 
   ChatModel({this.name,this.message,this.time,this.avatarUrl});
 
+}
+
   List<ChatModel> dummyData = [
     new ChatModel
     (
@@ -83,5 +85,3 @@ class ChatModel
       avatarUrl: "https://www.facebook.com/photo.php?fbid=2398154430510448&set=a.1377014282624473&type=3&theater",
     )
   ];
-
-}
