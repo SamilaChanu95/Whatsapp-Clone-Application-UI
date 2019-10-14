@@ -42,7 +42,7 @@ class ChatModel
       name: "Samila Chanuka",
       message: "Created whatsapp UI chat models.",
       time:"2.00 PM",
-      avatarUrl: "https://www.facebook.com/photo.php?fbid=2398154430510448&set=a.1377014282624473&type=3&theater",
+      avatarUrl: "http://digitalimagemakerworld.com/Profile-Backgrounds/image-138953",
     ),
 
     new ChatModel
@@ -82,6 +82,6 @@ class ChatModel
       name: "Samila Chanuka",
       message: "Created whatsapp UI.",
       time:"5.00 PM",
-      avatarUrl: "https://www.facebook.com/photo.php?fbid=2398154430510448&set=a.1377014282624473&type=3&theater",
+      avatarUrl: "http://digitalimagemakerworld.com/Profile-Backgrounds/image-138953",
     )
   ];
